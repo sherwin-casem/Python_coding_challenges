@@ -1,0 +1,1 @@
+[Solve Yourself Here] (https://www.hackerrank.com/challenges/decorators-2-name-directory/problem?isFullScreen=true)
