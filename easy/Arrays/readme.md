@@ -1,0 +1,1 @@
+[Solve Yourself Here] (https://www.hackerrank.com/challenges/np-arrays/problem?isFullScreen=true)
