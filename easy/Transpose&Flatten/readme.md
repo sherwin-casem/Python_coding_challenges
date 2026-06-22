@@ -1,0 +1,1 @@
+[Solve Yourself Here] (https://www.hackerrank.com/challenges/np-transpose-and-flatten/problem?isFullScreen=true)
